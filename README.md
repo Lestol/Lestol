@@ -16,3 +16,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lestol&style=flat-square&color=blueviolet" alt="The amount of my visitors"/ title="Views">
 </div>
+
+<h1>
+  I welcome everyone! / Всех приветствую!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
