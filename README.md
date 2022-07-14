@@ -26,4 +26,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
+My name is Daniil/Dan. I am Web-developer from Russia :ru:
+- :computer: I am learning web-development and now I do not work because my studying college
