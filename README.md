@@ -6,4 +6,7 @@
   <a href="mailto:tanksw33@gmail.com">
     <img src="https://img.shields.io/badge/Mail-blue?logo=mail.ru&logoColor=white&style=for-the-badge" alt="Mail Badge"/>
   </a>
+  <a href="https://vk.com/theblackun1corn">
+    <img src="https://img.shields.io/badge/Vk-blue?logo=vk.com&logoColor=white&style=for-the-badge" alt="Vk/Вконтакте Badge">
+  </a>
 </div>
