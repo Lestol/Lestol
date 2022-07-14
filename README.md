@@ -14,5 +14,5 @@
   </a>
 </div>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=Lestol&style=flat-square&color=blue" alt="The amount of my visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=Lestol&style=flat-square&color=blue" alt="The amount of my visitors"/ title="Visitors">
 </div>
