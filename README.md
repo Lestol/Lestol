@@ -3,5 +3,7 @@
 </div>
 
 <div class="badges">
-  <img src="https://img.shields.io/badge/Mail-blue?logo=mail.ru&logoColor=white&style=for-the-badge" alt="Mail Badge"/>
+  <a href="mailto:tanksw33@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-blue?logo=mail.ru&logoColor=white&style=for-the-badge" alt="Mail Badge"/>
+  </a>
 </div>
