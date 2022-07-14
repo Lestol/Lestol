@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram.org&logoColor=white&style=for-the-badge" alt="Telegram Badge">
   </a>
 </div>
-<div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lestol&style=flat-square&color=blue" alt="The amount of my visitors"/ title="Views">
 </div>
