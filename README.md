@@ -27,5 +27,16 @@
 </div>
 
 ### :man_technologist: About Me :
-My name is Daniil/Dan. I am Web-developer from Russia :ru:
-- :computer: I am learning web-development and now I do not work because my studying college
+My name is Daniil/Dan. I am 18 years old, Web-developer from Russia :ru:
+- :computer: I am learning web-development and now I do not work because my college education
+- :hourglass_flowing_sand: Every day I spend 6 hours on programming. And I really like It!
+- :books: My hobbies: reading books, politics, history, singing, playing on synthesizer, sometimes I like to watch anime, learning foreign languages (E.g. English, Japanese)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="" title="Java" alt="html" width="40" height="40"/>&nbsp;
+  <img src="" title="React" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Spring" alt="javascript" width="40" height="40"/>&nbsp;
+</div>
