@@ -40,3 +40,8 @@ My name is Daniil/Dan. I am 18 years old, Web-developer from Russia :ru:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="React" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Spring" alt="javascript" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lestol&theme=dark&background=000000)](https://git.io/streak-stats)
