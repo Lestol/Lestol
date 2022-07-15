@@ -45,3 +45,4 @@ My name is Daniil/Dan. I am 18 years old, Web-developer from Russia :ru:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lestol&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lestol&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
