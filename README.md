@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 My name is Daniil/Dan. I am 18 years old, Web-developer from Russia :ru:
 - :computer: I am learning web-development and now I do not work because my college education
-- :hourglass_flowing_sand: Every day I spend 6 hours on programming. And I really like It!
+- :hourglass_flowing_sand: Every day I spend time for programming. And I really like It!
 - :books: My hobbies: reading books, history, sometimes I like to watch anime, learning foreign languages (E.g. English, Japanese)
 
 ---
